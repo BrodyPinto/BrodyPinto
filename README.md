@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student majoring in Data Science at St. Lawrence University in Canton, NY.
+I am a junior studying Data Science at St. Lawrence University in Canton, NY.
 
 I am also minoring in Biology, with a particular interest in marine organisms. I am also on the tennis team at St. Lawrence University.
 
