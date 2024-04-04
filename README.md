@@ -1,8 +1,8 @@
 ### Hello there!
 
-I am currently junior double-majoring in Data Science 💻  and Biology 🧬 at St. Lawrence University in Canton, NY.
+I am currently junior double-majoring in Data Science 📊 and Biology 🧬 at St. Lawrence University in Canton, NY.
 
-I am also minoring in Mathematics 🧮 and have a particular interest in statistical theory involving time series analysis with financial applications. I am also on the tennis team at St. Lawrence University, making the most of my liberal arts university experience as a full-time student-athlete.
+I am also minoring in Mathematics 🧮 and have a particular interest in statistical theory 📈 involving time series analysis with financial applications. I am also on the tennis team at St. Lawrence University, making the most of my liberal arts university experience as a full-time student-athlete 🎓🎾.
 
 <!--
 **BrodyPinto/BrodyPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
