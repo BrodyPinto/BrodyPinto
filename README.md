@@ -1,5 +1,3 @@
-### Hello there!
-
 I am currently a Senior majoring in Data Science 📊 at St. Lawrence University in Canton, NY.
 
 I am minoring in Mathematics 🧮 and Biology 🧬 and have a particular interest in time series analysis 📈, and statistical analysis in ecological, financial, and sports applications. As a Senior captain of the men's tennis team at St. Lawrence University, I'm making the most of my liberal arts university experience as a full-time student-athlete 🎓🎾.
