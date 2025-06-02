@@ -1,6 +1,4 @@
-I am currently a Senior majoring in Data Science at St. Lawrence University in Canton, NY.
-
-I'm also minoring in Mathematics and have a particular interest in time series analysis, and statistical analysis in financial, biological, and sports applications. As a Senior captain of the men's tennis team at St. Lawrence University, I'm making the most of my liberal arts university experience as a full-time student-athlete.
+I'm a recent graduate of St. Lawrence University with a B.S. in Data Science and a minor in Mathematics. My work focuses on machine learning, artificial intelligence, statistical modeling, and time series analysis, with applications in finance, ecology, and sports analytics. I’ve led independent research projects, built R packages, and developed tools for data visualization, forecasting, and reinforcement learning.
 
 <!--
 **BrodyPinto/BrodyPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
